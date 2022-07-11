@@ -1,4 +1,4 @@
-# Final_Project at Practical Engineering School.
+# Final Project at Practical Engineering School.
 
 Robotic manipulator, implemented using Microcontroller and programmed in embedded C language.
 
